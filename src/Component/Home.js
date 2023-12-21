@@ -364,7 +364,7 @@ const Home = () => {
                     </div>
 
                     <div className='Filter-Items' >
-                        <div><span style={{ fontSize: '0.8rem' }}>Mother Tongue</span></div>
+                        <div><span style={{ fontSize: '0.8rem' }}>Religion</span></div>
                         <select name="" id="" style={{ height: '31px', borderRadius: '5px', width: '100%' }}
                             onChange={(e) => { setPhoneCode(e.target.value) }}>
                             <option value={""}>Select</option>
